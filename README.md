@@ -7,11 +7,13 @@ a cada dia, buscando melhorar meus conhecimentos e adquirir mais capacitação p
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-Frasco	[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)]
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)][def]
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)][def]
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)][def]
+Frasco	[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)] 
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)][def]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)][def]
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)][def]
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][def]
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact&langs_count=3&bg_color=000&title_color=E94D5F&text_color=FFF&border_color=30A3DC)
