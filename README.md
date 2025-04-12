@@ -1,7 +1,7 @@
 #Pojeto-git-github-2<br>
-<img align="center" padding="0" alt="Descrição da imagem" src="https://tempodeinovacao.com.br/wp-content/uploads/2020/10/Programacao.jpg" width="500" height="300">
+<img align="center" padding="0" alt="Descrição da imagem" src="https://tempodeinovacao.com.br/wp-content/uploads/2020/10/Programacao.jpg" width="250" height="150">
 
-<img align="center" padding="0" alt="perfil pessoal" src="C:\Users\agata\Downloads\Bratesco JavaScript\projeto-git-github\projeto-git-github-2\imagem" width="500" height="300">
+<img align="center" padding="0" alt="perfil pessoal" src="imagem/perfil_pessoal.jpg" width="500" height="300">
 
 
 #Ana Caroline,
