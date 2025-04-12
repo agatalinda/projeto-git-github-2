@@ -13,7 +13,7 @@ a cada dia, buscando melhorar meus conhecimentos e adquirir mais capacitação p
 ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
 <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)<br>
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)-(69) 9 84648037
 
 
 
