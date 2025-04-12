@@ -11,9 +11,9 @@ por enquanto, não tenho experiência profissional na área.<br> Estou me qualif
 a cada dia, buscando melhorar meus conhecimentos e adquirir mais capacitação para o mercado de trabalho.<br>
 
 ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
-<br> linkedin.com/in/ana-caroline-7b5621352
+<br> linkedin.com/in/ana-caroline-7b5621352 <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)<br>
-agatalinda2027@gmail.com
+agatalinda2027@gmail.com<br>
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)<br>(69) 9 84648037
 
 
