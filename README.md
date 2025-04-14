@@ -8,7 +8,10 @@
 Ana Caroline,
 iniciei minha carreira aos 28 anos. Ainda estou cursando minha graduação na área de Sistemas para Internet e,
 por enquanto, não tenho experiência profissional na área.<br> Estou me qualificando e,
-a cada dia, buscando melhorar meus conhecimentos e adquirir mais capacitação para o mercado de trabalho.<br>
+a cada dia, buscando melhorar meus conhecimentos e adquirir mais capacitação para o mercado de trabalho.
+
+Gosto de tirar dúvidas antes de começar um projeto, procurando sempre melhorar meu desempenho colaborativo, a fim de concluir com êxito as tarefas estabelecidas, com satisfação e eficiência.
+<br>
 
 ## Dados Pessoais 
 
