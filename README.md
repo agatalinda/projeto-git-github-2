@@ -13,7 +13,7 @@ a cada dia, buscando melhorar meus conhecimentos e adquirir mais capacitação p
 ## Dados Pessoais 
 
 >![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
->linkedin.com/in/ana-caroline-7b5621352 <br>
+>[linkedin.com/in/ana-caroline-7b5621352](https://www.linkedin.com/in/ana-caroline-7b5621352/overlay/contact-info/)<br>
 >
 >![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 >agatalinda2027@gmail.com<br>
