@@ -5,19 +5,21 @@
 <br>
 <br>
 
-#Ana Caroline,
+Ana Caroline,
 iniciei minha carreira aos 28 anos. Ainda estou cursando minha graduação na área de Sistemas para Internet e,
 por enquanto, não tenho experiência profissional na área.<br> Estou me qualificando e,
 a cada dia, buscando melhorar meus conhecimentos e adquirir mais capacitação para o mercado de trabalho.<br>
+
+## Dados Pessoais 
 
 >![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
 >linkedin.com/in/ana-caroline-7b5621352 <br>
 <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
->agatalinda2027@gmail.com<br>
+> agatalinda2027@gmail.com<br>
 <br>
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
->(69) 9 84648037
+> **(69) 9 84648037**
 
 
 
