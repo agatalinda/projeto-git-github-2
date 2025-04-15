@@ -1,7 +1,7 @@
 #Pojeto-git-github-2<br><br>
 <img align="center" padding="0" alt="Descrição da imagem" src="https://tempodeinovacao.com.br/wp-content/uploads/2020/10/Programacao.jpg" width="500" height="150">
 
-<img align="center" padding="0" alt="perfil_pessoal" src="C:\Users\agata\Downloads\Bratesco JavaScript\projeto-git-github\projeto-git-github-2\imagem" width="100" height="100">
+<img align="center" padding="0" alt="perfil_pessoal" src="![alt text](image-1.png)" width="100" height="100">
 <br>
 <br>
 
@@ -32,4 +32,8 @@ Gosto de tirar dúvidas antes de começar um projeto, procurando sempre melhorar
 |----------|----------|----------|----------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff) |![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) |![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)|
 | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) |[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) |[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+
+| Preview | Parameters |
+|:-------:|:----------:|
+| ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
 
