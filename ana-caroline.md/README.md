@@ -1,7 +1,7 @@
 #Pojeto-git-github-2<br><br>
 <img align="center" padding="0" alt="Descrição da imagem" src="https://tempodeinovacao.com.br/wp-content/uploads/2020/10/Programacao.jpg" width="500" height="150">
 
-<img align="center" padding="0" alt="perfil pessoal" src="imagem/perfil_pessoal.jpg" width="100" height="100">
+<img align="center" padding="0" alt="perfil_pessoal" src="perfil_pessoal.jpg" width="100" height="100">
 <br>
 <br>
 
